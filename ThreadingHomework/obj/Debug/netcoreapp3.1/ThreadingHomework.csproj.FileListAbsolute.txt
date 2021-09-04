@@ -1,0 +1,12 @@
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\bin\Debug\netcoreapp3.1\ThreadingHomework.exe
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\bin\Debug\netcoreapp3.1\ThreadingHomework.deps.json
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\bin\Debug\netcoreapp3.1\ThreadingHomework.runtimeconfig.json
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\bin\Debug\netcoreapp3.1\ThreadingHomework.runtimeconfig.dev.json
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\bin\Debug\netcoreapp3.1\ThreadingHomework.dll
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\bin\Debug\netcoreapp3.1\ThreadingHomework.pdb
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\obj\Debug\netcoreapp3.1\ThreadingHomework.csprojAssemblyReference.cache
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\obj\Debug\netcoreapp3.1\ThreadingHomework.AssemblyInfoInputs.cache
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\obj\Debug\netcoreapp3.1\ThreadingHomework.AssemblyInfo.cs
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\obj\Debug\netcoreapp3.1\ThreadingHomework.dll
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\obj\Debug\netcoreapp3.1\ThreadingHomework.pdb
+D:\Степапка\DEX\Домашние задания\ThreadingHomework\ThreadingHomework\obj\Debug\netcoreapp3.1\ThreadingHomework.genruntimeconfig.cache
